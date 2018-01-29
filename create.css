@@ -1,0 +1,36 @@
+
+.row {
+    
+    height: 200px;
+  }
+  
+  .col-sm-6 {
+    
+    height: 900px;
+  }
+  
+  
+
+  .fa {
+    padding: 40px;
+    font-size: 60px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.repoBtn {
+  background-color: #008CBA;} 
+
+.gitList{
+  justify-content: center;
+  text-align: center;
+  height: 400px;
+  width: 100px;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.336);
+}
